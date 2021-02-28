@@ -9,6 +9,9 @@
     color: blue;
     font-weight: 400;
 }
+.product-img{
+    margin-right: 10px;
+}
 button{
     background-color: #f0c14b;
     border:1px solid #846a29;
@@ -18,4 +21,5 @@ button{
     cursor: pointer;
     border-radius: 3px;
     vertical-align: middle;
+    cursor: pointer;
 }
